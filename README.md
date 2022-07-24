@@ -1,7 +1,7 @@
 # core-code-from-scratch-readme
 ## Week 1
 ***Tuesday***
-[Tuesday19/07/2022](Tuesday/README.md)
+[Tuesday19/07/2022](WEEK1/Tuesday/README.md)
 
 
 ***Miércoles***
