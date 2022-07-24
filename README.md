@@ -45,13 +45,16 @@ Java implementations typically use a two-step compilation process. Java source c
 
 ***Miércoles***
 1. ### Your date of birth in the matrix?
+
 - Tener tabla de exponenciales de 2 [tabla](https://todofisico.es.tl/numeracion-binaria.htm)
 - Se necesita el año 1999
 - Se inicia la resta en la tabla comenzando desde 1024 - 1999
 - Se llena la tabla usando las restas necesarias
-| 1024 |512 |256|128|64|32|16|8|4|2|1|
-| ------------- | ------------- |
-|1|1|1|1|1|0|0|1|1|1|1|
+
+| 1024 | 512 | 256 | 128 | 64  | 32  | 16  | 8   | 4   | 2   | 1   |
+| ---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1    | 1   | 1   | 1   | 1   | 0   | 0   | 1   | 1   | 1   | 1   |
+
 **Respuesta: 11111001111**
 2. ### MIPS
 ***Jueves***
