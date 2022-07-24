@@ -56,9 +56,12 @@ Java implementations typically use a two-step compilation process. Java source c
 | 1    | 1   | 1   | 1   | 1   | 0   | 0   | 1   | 1   | 1   | 1   |
 
 **Respuesta: 11111001111**
+
 2. ### MIPS
+Done
 ***Jueves***
 1. ### Print special numbers
+
 2. ### Bad Code
 3. ### Bad Code 2
 4. ### Follow Git Course
