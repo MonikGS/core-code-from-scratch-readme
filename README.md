@@ -25,14 +25,6 @@ Java implementations typically use a two-step compilation process. Java source c
 - Usar la conversión de USD a BTC (1 USD = 0,00004467 BTC)
 - Mostrar resultado 
 
-  Starting point: START
-  Input: READ, GET
-  Output: PRINT
-  Math: +, -, *, /
-  Assignation: <--
-  Initialize: SET, INIT
-  Add one: INCREMENT
-  End point: END
 *Pseudocode*
 - START
 - USD <-- GET
@@ -43,7 +35,13 @@ Java implementations typically use a two-step compilation process. Java source c
 
 4. ### High and Low level languages
 
-
+| Alto | Bajo |
+| ------------- | ------------- |
+| Se refiere a lenguaje humano |  Se refiere a lenguaje de máquina|
+|Es utilizado en programación|No hay relación con los conceptos de programación|
+|Necesita de algún lenguaje interpretado o compilado|Directamente ejecutados en la máquina, sin lenguaje interpretado o compilado|
+|Fácil para utilizar|Muy complejo para utilizar|
+|Ejemplo: C#, Java, PHP|Ejemplo: Ensamblador |
 ***Miércoles***
 1. ### Your date of birth in the matrix?
 2. ### MIPS
