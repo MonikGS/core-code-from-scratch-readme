@@ -1,7 +1,8 @@
 # core-code-from-scratch-readme
-## Semana 1
-***Martes***
+## Week 1
+***Tuesday***
 1. ### Interpreted And Compiled Programming Languages
+The programas are instruccions that works to generate some accion. The funcionts of interpreted and compilad languages are to use 
 Los programas son instrucciones que sirven para generar una acción. Los lenguajes Interpretados y Compilados tienen como función el usar el código legible para el ser humano para transformarlo en código entendible para la máquina.
 | Interpretado | Compilado |
 | ------------- | ------------- |
@@ -15,6 +16,8 @@ Los programas son instrucciones que sirven para generar una acción. Los lenguaj
 **OJO:** Cabe resaltar que algunos programas pueden tener implementaciones tanto interpretado como compilado.
 
 2. ### Is Java compiled or interpreted, or both?
+Java implementations typically use a two-step compilation process. Java source code is compiled down to bytecode by the Java compiler. The bytecode is executed by a Java Virtual Machine (JVM). Modern JVMs use a technique called Just-in-Time (JIT) compilation to compile the bytecode to native instructions understood by hardware CPU on the fly at runtime.
+
 3. ### Pseudocode Currency Converter
 4. ### High and Low level languages
 
