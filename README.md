@@ -19,7 +19,30 @@ Los programas son instrucciones que sirven para generar una acción. Los lenguaj
 Java implementations typically use a two-step compilation process. Java source code is compiled down to bytecode by the Java compiler. The bytecode is executed by a Java Virtual Machine (JVM). Modern JVMs use a technique called Just-in-Time (JIT) compilation to compile the bytecode to native instructions understood by hardware CPU on the fly at runtime.
 
 3. ### Pseudocode Currency Converter
+*Pasos para entender el algoritmo*
+- Ingrese una cantidad de dinero que desea convertir a bitcoin 
+- Guardado de dato
+- Usar la conversión de USD a BTC (1 USD = 0,00004467 BTC)
+- Mostrar resultado 
+
+  Starting point: START
+  Input: READ, GET
+  Output: PRINT
+  Math: +, -, *, /
+  Assignation: <--
+  Initialize: SET, INIT
+  Add one: INCREMENT
+  End point: END
+*Pseudocode*
+- START
+- USD <-- GET
+- BTC <-- USD* 0,00004467 (23/07/2022)
+- PRINT BTC 
+- END
+
+
 4. ### High and Low level languages
+
 
 ***Miércoles***
 1. ### Your date of birth in the matrix?
