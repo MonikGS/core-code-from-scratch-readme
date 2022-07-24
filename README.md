@@ -1,34 +1,8 @@
 # core-code-from-scratch-readme
 ## Semana 1
-<details><summary>Martes</summary>
+### Interpreted And Compiled Programming Languages
+| Interpretado | Compilado |
+| ------------- | ------------- |
+| Se da una copia pero se debe contar con algun intermedio  | Se corre el programa inmediatamente sin tener el código fuente |
+| Son más lentos  | Como necesita de que cada instrucción sea traducida, es más eficiente  |
 
-<p>
-**Interpreted And Compiled Programming Languages**
-
-</p>
-
-</details>
-<details><summary>Miércoles</summary>
-
-<p>
-** Interpreted And Compiled Programming Languages**
-
-</p>
-
-</details>
-<details><summary>Jueves </summary>
-
-<p>
-**Interpreted And Compiled Programming Languages**
-
-</p>
-
-</details>
-<details><summary>Viernes</summary>
-
-<p>
-**Interpreted And Compiled Programming Languages**
-
-</p>
-
-</details>
