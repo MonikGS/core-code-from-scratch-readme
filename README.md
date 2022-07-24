@@ -1,10 +1,11 @@
 # core-code-from-scratch-readme
 ## Week 1
 ***Tuesday***
-[Tuesday19/07/2022](WEEK1/Tuesday/README.md)
+[19/07/2022](WEEK1/Tuesday/README.md)
 
 
 ***Miércoles***
+[20/07/2022](WEEK1/MIERCOLES/README.md)
 1. ### Your date of birth in the matrix?
 
 - Tener tabla de exponenciales de 2 [tabla](https://todofisico.es.tl/numeracion-binaria.htm)
@@ -30,6 +31,7 @@
               la $a0, message
               syscall
 ``` 
+-DONE
 ***Jueves***
 1. ### Print special numbers
 
