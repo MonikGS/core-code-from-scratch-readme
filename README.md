@@ -1,6 +1,7 @@
 # core-code-from-scratch-readme
 ## Week 1
 ***Tuesday***
+[Tuesday19/07/2022](Tuesday/README.md)
 1. ### Interpreted And Compiled Programming Languages
 The programas are instruccions that works to generate some accion. The funcionts of interpreted and compilad languages are to use 
 Los programas son instrucciones que sirven para generar una acción. Los lenguajes Interpretados y Compilados tienen como función el usar el código legible para el ser humano para transformarlo en código entendible para la máquina.
@@ -48,7 +49,7 @@ Java implementations typically use a two-step compilation process. Java source c
 
 - Tener tabla de exponenciales de 2 [tabla](https://todofisico.es.tl/numeracion-binaria.htm)
 - Se necesita el año 1999
-- Se inicia la resta en la tabla comenzando desde 1024 - 1999
+- Se resta en la tabla comenzando desde 1024 - 1999
 - Se llena la tabla usando las restas necesarias
 
 | 1024 | 512 | 256 | 128 | 64  | 32  | 16  | 8   | 4   | 2   | 1   |
@@ -58,7 +59,17 @@ Java implementations typically use a two-step compilation process. Java source c
 **Respuesta: 11111001111**
 
 2. ### MIPS
-Done
+-Mi nombre
+![](../assets/00_MIPS.png)
+```assembly
+  .data
+        message: .asciiz "\nMónica\n"
+  .text
+        main:
+              li $v0, 4
+              la $a0, message
+              syscall
+``` 
 ***Jueves***
 1. ### Print special numbers
 
