@@ -106,5 +106,16 @@ Java implementations typically use a two-step compilation process. Java source c
 1. ### Print special numbers
 
 2. ### Bad Code
+```javascript
+var cond = false;
+
+if ((cond == true)){
+console.log('The cond variable is true');
+}else {
+  console.log('The cond variable is false');
+}
+```
 3. ### Bad Code 2
+```javascript
+```
 4. ### Follow Git Course
