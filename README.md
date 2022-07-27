@@ -1,7 +1,7 @@
 # core-code-from-scratch-readme
 ## Week 1
 ***Tuesday***
-[19/07/2022](WEEK01/MARTES/README.md)
+[19/07/2022](CHALLENGES/WEEK01/MARTES/README.md)
 
 1. ### Interpreted And Compiled Programming Languages
 The programas are instruccions that works to generate some accion. The funcionts of interpreted and compilad languages are to use 
@@ -45,7 +45,7 @@ Java implementations typically use a two-step compilation process. Java source c
 |Fácil para utilizar|Muy complejo para utilizar|
 |Ejemplo: C#, Java, PHP|Ejemplo: Ensamblador |
 ***Miércoles***
-[20/07/2022](WEEK01/MIERCOLES/README.md)
+[20/07/2022](CHALLENGES/WEEK01/MIERCOLES/README.md)
 1. ### Your date of birth in the matrix?
 
 - Tener tabla de exponenciales de 2 [tabla](https://todofisico.es.tl/numeracion-binaria.htm)
@@ -103,7 +103,7 @@ Java implementations typically use a two-step compilation process. Java source c
               syscall
 ``` 
 ***Jueves***
-[21/07/2022](WEEK01/JUEVES/README.md)
+[21/07/2022](CHALLENGES/WEEK01/JUEVES/README.md)
 1. ### Print special numbers
 - For
 - While
