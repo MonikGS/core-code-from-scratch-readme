@@ -1,7 +1,7 @@
 # core-code-from-scratch-readme
 ## Week 1
 ***Tuesday***
-[19/07/2022](WEEK1/Tuesday/README.md)
+[19/07/2022](WEEK1/MARTES/README.md)
 
 1. ### Interpreted And Compiled Programming Languages
 The programas are instruccions that works to generate some accion. The funcionts of interpreted and compilad languages are to use 
@@ -103,6 +103,7 @@ Java implementations typically use a two-step compilation process. Java source c
               syscall
 ``` 
 ***Jueves***
+[21/07/2022](WEEK1/JUEVES/README.md)
 1. ### Print special numbers
 - For
 - While
