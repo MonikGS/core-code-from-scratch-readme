@@ -9,11 +9,11 @@
 [21/07/2022](CHALLENGES/WEEK01/JUEVES/README.md)
 
 ## Week 2
-***Monday***
+- ***Monday***
 [25/07/2022](CHALLENGES/WEEK02/LUNES/README.md)
-***Tuesday***
+- ***Tuesday***
 [26/07/2022](CHALLENGES/WEEK02/MARTES/README.md)
-***Wednesday***
+- ***Wednesday***
 [27/07/2022](CHALLENGES/WEEK02/MIERCOLES/README.md)
 ***Thursday***
 [28/07/2022](CHALLENGES/WEEK02/JUEVES/README.md)
