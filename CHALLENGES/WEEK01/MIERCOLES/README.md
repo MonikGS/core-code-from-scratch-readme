@@ -1,7 +1,7 @@
 1. ### Your date of birth in the matrix?
 
-- Tener tabla de exponenciales de 2 [tabla](https://todofisico.es.tl/numeracion-binaria.htm)
-- Se necesita el año 1999
+- You need a table of exponential of two[tabla](https://todofisico.es.tl/numeracion-binaria.htm)
+- You need to know your birth (1999)
 - Se resta en la tabla comenzando desde 1024 - 1999
 - Se llena la tabla usando las restas necesarias
 
