@@ -1,13 +1,13 @@
 Welcome
-# html
+# HMTL
 **you need**
 - Google Chrome, you can also use another network but the recomendation is this one
 - Visual Studio Code, better if you dont use Netbeans
 
 **You download extensions**
-vscode-icons= better image
-prettier = code formatter
-live server = little server you can load changes in html automatic
+- vscode-icons= better image
+- prettier = code formatter
+- live server = little server you can load changes in html automatic
 
 ## Website Theory
 **Who work?**
