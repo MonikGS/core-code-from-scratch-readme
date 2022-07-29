@@ -26,15 +26,12 @@ Welcome
 - Client Request to server
 - Server Response to client
 ## Basic Structure
-- <!DOCTYPE html> Version5
-- <!--elemento> </elemento>--> to comment
-- <head> meta data web description
-- <title> name
+
 ```html
-<!DOCTYPE html> 
-<html>
-<head>
-<title> Mi Primer Proyecto</title>
+<!DOCTYPE html> <!--elemento> version </elemento>--> 
+<html> 
+<head> <!--elemento> meta data web description </elemento>-->
+<title> Mi Primer Proyecto</title> <!--elemento> name </elemento>-->
 </head>
 <body>
 
