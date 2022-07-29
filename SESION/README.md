@@ -41,7 +41,7 @@
 ```
 
 ## Head
-To load files (you can also do the same action in body), but in head is the first that is going to load in the project, is an advantage if you have a heavy Javascript project.
+A option to use head is to load files (you can also do the same action in body), but in head is the first that is going to load in the project, is an advantage if you have a heavy Javascript project.
 If you press ! and enter you automatically you have HTML structure
 ```html
 <!DOCTYPE html>
@@ -58,3 +58,18 @@ If you press ! and enter you automatically you have HTML structure
 </html> 
 ```
 ## Images
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi primer proyecto</title>
+</head>
+<body>
+    <img src= "imagenes/foto.png" alt="imagen de Boo"/> <!--e> src= where find the image, alt= if you lose the image </e>-->
+</body>
+</html>
+```
