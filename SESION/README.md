@@ -41,18 +41,20 @@
 ```
 
 ## Head
+To load files (you can also do the same action in body), but in head is the first that is going to load in the project, is an advantage if you have a heavy Javascript project.
 If you press ! and enter you automatically you have HTML structure
 ```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <meta charset="UTF-8"><!--e> mention data set of characters that you use </e>-->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"> <!--e> the content is friendly to internet explorer </e>-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"><!--e> window size </e>-->
+    <title>Mi primer proyecto</title>
 </head>
 <body>
     
 </body>
 </html> 
 ```
+## Images
