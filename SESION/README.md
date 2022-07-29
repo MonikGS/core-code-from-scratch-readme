@@ -17,11 +17,22 @@ Welcome
 - Frontend Developer
 - Backend Developer
 - Fullstack Developer (Frontend + Backend)
-** Languages**
+**Languages**
 - HTML
 - CSS
 - JS (Javascript)
 
 **Network Traffic**
-Client Request to server
-Server Response to client
+- Client Request to server
+- Server Response to client
+```html
+<!DOCTYPE html> 
+<html>
+<head>
+<title> Mi Primer Proyecto</title>
+</head>
+<body>
+
+</body>
+</html> 
+```
