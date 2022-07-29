@@ -25,6 +25,11 @@ Welcome
 **Network Traffic**
 - Client Request to server
 - Server Response to client
+## Basic Structure
+- <!DOCTYPE html> Version5
+- <!--elemento> </elemento>--> to comment
+- <head> meta data web description
+- <title> name
 ```html
 <!DOCTYPE html> 
 <html>
