@@ -2,8 +2,8 @@
 
 - You need a table of exponential of two[tabla](https://todofisico.es.tl/numeracion-binaria.htm)
 - You need to know your birth (1999)
-- Se resta en la tabla comenzando desde 1024 - 1999
-- Se llena la tabla usando las restas necesarias
+- It rest from the char starting from 1024 - 1999
+- Chart is filled out using necesary rests
 
 | 1024 | 512 | 256 | 128 | 64  | 32  | 16  | 8   | 4   | 2   | 1   |
 | ---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -12,7 +12,7 @@
 **Respuesta: 11111001111**
 
 2. ### MIPS
--Mi nombre
+-Program that display your name
 ![](../assets/00_MIPS.png)
 ```assembly
   .data
@@ -23,7 +23,7 @@
               la $a0, message
               syscall
 ``` 
--numeros
+-Create a program to add two numbers given by the user:
 ```assembly
 .data
 	      n1: .asciiz "\nIngrese el primer numero: "
