@@ -1,5 +1,6 @@
 # core-code-from-scratch-readme
-[Sesions](SESION/README.md)
+[HTML](SESION/README.md)
+
 ## Challenges
 ## Week 1
 - ***Tuesday***
