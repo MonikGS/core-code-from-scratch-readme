@@ -1,9 +1,28 @@
 1. ### Print special numbers
 - For
+```javascript
+for (let i = 0; i <= 100; i++) {
+ if(i % 2 == 0) console.log(i);
+}
+```
 - While
+```javascript
+let i= 0;
+while (i <= 100) {
+  i++;
+ if(i % 2 == 0) console.log(i);
+}
+```
 - do While
-- Even number
-- Reminder Operator
+```javascript
+let i = 0;
+do {
+  if(i % 2 == 0) console.log(i); 
+  i ++;
+}
+while (i > 0 && i <= 100);
+```
+
 2. ### Bad Code
 The error is missing a = to be a equality operator ( == ) checks whether its two operands are equal, returning a Boolean result. 
 
