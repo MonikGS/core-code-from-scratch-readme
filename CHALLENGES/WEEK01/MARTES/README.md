@@ -32,10 +32,10 @@ Java implementations typically use a two-step compilation process. Java source c
 
 4. ### High and Low level languages
 
-| Alto | Bajo |
+| High | Low |
 | ------------- | ------------- |
-| Se refiere a lenguaje humano |  Se refiere a lenguaje de máquina|
-|Es utilizado en programación|No hay relación con los conceptos de programación|
+| Refers to human language |  Refers to machine language|
+|It's use in programming|No hay relación con los conceptos de programación|
 |Necesita de algún lenguaje interpretado o compilado|Directamente ejecutados en la máquina, sin lenguaje interpretado o compilado|
 |Fácil para utilizar|Muy complejo para utilizar|
 |Ejemplo: C#, Java, PHP|Ejemplo: Ensamblador |
