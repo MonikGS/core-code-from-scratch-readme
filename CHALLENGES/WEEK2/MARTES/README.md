@@ -14,7 +14,7 @@ function uniTotal (palabra) {
 let conteo = palabra.legth;
 let suma = 0;
 for(let i = 0; i < conteo; i++){
-  suma = palabra.charCodeAt(i)+suma;
+  suma = palabra.charCodeAt[i]+suma;
   }
   return suma;
 }
