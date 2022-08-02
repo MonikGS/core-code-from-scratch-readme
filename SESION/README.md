@@ -74,3 +74,51 @@ If you press ! and enter you automatically you have HTML structure
 </html>
 ```
 ## CSS Basics 1
+There us 3 ways to implamate CSS
+1. Inline Style: CSS Code writing in one speficied element. (No Recommended)
+2. In Style: Inside of HTML's Code
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi primer proyecto</title>
+    <!--e>In p (selector elemento cambio)</e-->
+    <style> 
+        p {
+            color:pink;
+
+        }
+    </style>
+</head>
+<body>
+    <img src= "imagenes/foto.png" alt="imagen de Boo"/>
+    <p style = "color:blue">Hola me llamo Monica</p> <!--e>Inline</e-->
+</body>
+</html>
+```
+3. External CSS: Create another CSS file (.css)
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi primer proyecto</title>
+    <link rel="stylesheet" href="index.css"/>  <!--e>rel= archivo href=ubicacion</e-->
+</head>
+<body>
+    <img src= "imagenes/foto.png" alt="imagen de Boo"/>
+    <p>Hola me llamo Monica</p> 
+</body>
+</html>
+```
+```css
+p{
+    color:aqua;
+    font-size:30px ;
+}
+```
