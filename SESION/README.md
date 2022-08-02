@@ -167,3 +167,36 @@ img{
     font-weight: bold;
 }
 ```
+## Text
+The title can be use be h1. But if you want to changes any kind of styles  you must do it in CSS.
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi primer proyecto</title>
+    <link rel="stylesheet" href="index.css"/>  <!--e>rel= archivo href=ubicacion</e-->
+</head>
+<body>
+    
+    <h1 id="titulo">HTML COURSE FROM <a href="https://core-code.io/" target="_blank">CORE CODE</a></h1>
+    <a href="imagenes/foto.png"download>
+    <img src= "imagenes/foto.png" alt="imagen de Boo"/>
+    </a>
+    <h2>HTML</h2>
+    <p>HTML Tutorial</p>
+    <h3>Code</h3>
+    <p>HTML Code examples...</p>
+    <h3>Exercise</h3>
+    <p>HTML Exercise</p>
+    <h2>CSS</h2>
+    <p>CSS Tutorial</p>
+    <h3>Code</h3>
+    <p>CSS Code examples...</p>
+    <h3>Exercise</h3>
+    <p>CSS Exercise</p> 
+</body>
+</html>
+```
