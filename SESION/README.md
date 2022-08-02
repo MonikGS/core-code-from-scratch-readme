@@ -200,3 +200,22 @@ The title can be use be h1. But if you want to changes any kind of styles  you m
 </body>
 </html>
 ```
+## List
+Use ul (item) or ol (enumerate)
+## Table
+```html 
+<table>
+    <thead>
+    <tr>
+        <th>Name</th>
+        <th>Email</th>
+        <th>Age</th>
+    </tr>
+    </thead>
+    <tr>
+        <th>Walther</th>
+        <th>walther@gmail.com</th>
+        <th>26</th>
+    </tr>
+</table>
+```
