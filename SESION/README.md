@@ -122,3 +122,48 @@ p{
     font-size:30px ;
 }
 ```
+## CSS Basics 2
+Images changes
+- border-radius: circle form
+- width: size
+- float: orientation
+**Model Box**: talking about design and layout
+- Content - The content of the box, where text and images appear
+- Padding - Clears an area around the content. The padding is transparent
+- Border - A border that goes around the padding and content
+- Margin - Clears an area outside the border. The margin is transparent
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi primer proyecto</title>
+    <link rel="stylesheet" href="index.css"/>  <!--e>rel= archivo href=ubicacion</e-->
+</head>
+<body>
+    <img src= "imagenes/foto.png" alt="imagen de Boo"/>
+    <p class="azul">Hola me llamo Monica</p> 
+    <p id="username"class="">Monik</p>
+    <p class="azul">Este texto debe ser azul</p>
+</body>
+</html>
+```
+```css
+.azul{
+    color:aqua;
+    font-size:30px ;
+}
+img{
+    width: 100px;
+    border-radius: 10px;
+    float: left;
+    margin-right: 15px;
+}
+
+#username{
+    color:black;
+    font-weight: bold;
+}
+```
