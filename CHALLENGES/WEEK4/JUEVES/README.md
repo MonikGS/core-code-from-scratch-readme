@@ -1,2 +1,2 @@
 ✨Complete your 2nd Core Challenge. This is one of the requirements for the certification, where you'll boost your dev professional-brand.
-[Linkedln](linkedin.com/in/mónica-gramajo-279077240)
+[Linkedln](https://www.linkedin.com/in/mónica-gramajo-279077240/)
