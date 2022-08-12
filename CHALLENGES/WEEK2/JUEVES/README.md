@@ -43,4 +43,23 @@ if(p2 ==="paper"&&p1==="rock"){
 ```
 5. ## Persistent Bugger exercise
 ```javascript
+function persistence(num) {
+   //code me
+  var numString = num.toString();
+  var numDigitsCount = numString.length;
+  var numMultCount = 0;
+  
+  while(numDigitsCount > 1){
+    var numMultResult = 1;
+   for(var i =0; i<= numString.length -1; i++){ //ultima posicion valida
+     numMultResult = numMultResult * numString[i];
+    }
+  num = numMultResult;
+  numMultCount = numMultCount + 1;
+  numString = num.toString();
+  numDigitsCount = numString.length;
+}
+  return numMultCount;
+
+}
 ```
