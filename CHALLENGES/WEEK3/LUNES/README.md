@@ -19,4 +19,26 @@ function likes(names) {
 }
 ```
 2. ## Bit Counting exercise
+```javascript
+var countBits = function(n) {
+if (n>=0){
+    // make an array with the bit result
+   const base = (n).toString(2).split('');
+   
+   // make a sum with the array and make the index a Number
+   const result = base.reduce((a, b) => a + Number(b), 0);
+   
+   return result; 
+}
+else{
+var nn = n*-1;
+     const base = (nn).toString(2).split('');
+   
+   // make a sum with the array and make the index a Number
+   const result = base.reduce((a, b) => a + Number(b), 0);
+   
+   return result; 
+}
+};
+```
 3. ## Your Order, Please exercise
