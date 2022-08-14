@@ -52,7 +52,7 @@ function persistence(num) {
   while(numDigitsCount > 1){
     var numMultResult = 1;
    for(var i =0; i<= numString.length -1; i++){ //ultima posicion valida
-     numMultResult = numMultResult * numString[i];
+     numMultResult = numMultResult * Number(numString[i]);
     }
   num = numMultResult;
   numMultCount = numMultCount + 1;
