@@ -43,3 +43,26 @@ var nn = n*-1;
 };
 ```
 3. ## Your Order, Please exercise
+```javascript
+function order(words){
+  if (words.length === 0) {
+    return words;
+  }
+words = words.split(""); 
+var NuevoArray =[];
+var OneWord = "";
+
+for (let i=0; i < words.length; i++){
+  OneWord = words[i];
+for (let j=0; j < OneWord.length; j++){
+  var letra = parseInt(oneWord[j]);
+  if (!isNaN(letra)){
+    NuevoArray[letra-1]= words[i];
+    
+  }
+} 
+}
+  return NuevoArray.join("");
+  }
+}
+```

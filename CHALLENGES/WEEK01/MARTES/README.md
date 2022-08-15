@@ -35,7 +35,7 @@ Java implementations typically use a two-step compilation process. Java source c
 | High | Low |
 | ------------- | ------------- |
 | Refers to human language |  Refers to machine language|
-|It's use in programming|No hay relación con los conceptos de programación|
+|It's use in programming|No related to programming concepts|
 |Necesita de algún lenguaje interpretado o compilado|Directamente ejecutados en la máquina, sin lenguaje interpretado o compilado|
 |Fácil para utilizar|Muy complejo para utilizar|
 |Ejemplo: C#, Java, PHP|Ejemplo: Ensamblador |
