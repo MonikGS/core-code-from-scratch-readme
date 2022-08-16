@@ -1,5 +1,5 @@
 1. ## Start this HTML course
-[HTML](SESION/README.md)
+Return to start of the repository
 
 2. ## Multiply exercise
 ```javascript
