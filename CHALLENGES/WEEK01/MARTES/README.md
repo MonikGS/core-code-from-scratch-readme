@@ -1,5 +1,5 @@
 1. ### Interpreted And Compiled Programming Languages
-The programas are instruccions that works to generate some accion. The funcionts of interpreted and compilad languages are to use 
+
 Los programas son instrucciones que sirven para generar una acción. Los lenguajes Interpretados y Compilados tienen como función el usar el código legible para el ser humano para transformarlo en código entendible para la máquina.
 | Interpretado | Compilado |
 | ------------- | ------------- |
@@ -16,11 +16,12 @@ Los programas son instrucciones que sirven para generar una acción. Los lenguaj
 Java implementations typically use a two-step compilation process. Java source code is compiled down to bytecode by the Java compiler. The bytecode is executed by a Java Virtual Machine (JVM). Modern JVMs use a technique called Just-in-Time (JIT) compilation to compile the bytecode to native instructions understood by hardware CPU on the fly at runtime.
 
 3. ### Pseudocode Currency Converter
-*Pasos para entender el algoritmo*
-- Ingrese una cantidad de dinero que desea convertir a bitcoin 
-- Guardado de dato
-- Usar la conversión de USD a BTC (1 USD = 0,00004467 BTC)
-- Mostrar resultado 
+*Steps to undestand the algorithm *
+- Enter an amount of money to convert to bitcoin  
+- Save data
+- Use the conversion to USD to BTC (1 USD = 0,00004467 BTC)
+- Show the result 
+ 
 
 *Pseudocode*
 - START
@@ -36,6 +37,6 @@ Java implementations typically use a two-step compilation process. Java source c
 | ------------- | ------------- |
 | Refers to human language |  Refers to machine language|
 |It's use in programming|No related to programming concepts|
-|Necesita de algún lenguaje interpretado o compilado|Directamente ejecutados en la máquina, sin lenguaje interpretado o compilado|
-|Fácil para utilizar|Muy complejo para utilizar|
-|Ejemplo: C#, Java, PHP|Ejemplo: Ensamblador |
+|Needs an Interpreted And Compiled Programming Languages|Directly executed by the machine, without  an Interpreted And Compiled Programming Languages |
+|Easy to use| Very difficult to use|
+|Example: C#, Java, PHP|Example: Assembly |
